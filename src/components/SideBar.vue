@@ -44,7 +44,7 @@
       </div>
       <div class="panel">
         <div class="header">
-          <span class="col_fade">无人回复的话题</span>
+          <span class="col_fade">热门回复的话题</span>
         </div>
         <div class="inner">
           <ul class="unstyled">
